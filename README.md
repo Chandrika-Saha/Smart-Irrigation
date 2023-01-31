@@ -1,5 +1,4 @@
-# Power Efficient Distant Controlled Smart Irrigation
-System for AMAN and BORO Rice
+# Power Efficient Distant Controlled Smart Irrigation System for AMAN and BORO Rice
 
 Irrigation is the process of applying appropriate
 amount of water to crop fields at needed interim. Irrigation
